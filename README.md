@@ -1,7 +1,5 @@
 # Sprunki Grown Up 🎵
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/your-username/sprunki-grown-up)
 <div align="center">
   <img src="./assets/images/sprunki-grown-up.png" alt="Sprunki Grown Up Game Preview" width="800">
 </div>
