@@ -15,7 +15,7 @@
 
 ## 🚀 Quick Start
 
-1. Visit [Sprunki Grown Up](https://sprunkiretake.io/games/sprunki-grow-up)
+1. Visit [Sprunki Grown Up](https://sprunkiretake.io/games/sprunki-grown-up)
 2. Click "Start Playing"
 3. Choose your favorite characters
 4. Begin creating your music!
