@@ -49,9 +49,3 @@ The game is completely free!
 
 > "Each character feels distinct and adds so much personality." - CreativePlayer
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
----
